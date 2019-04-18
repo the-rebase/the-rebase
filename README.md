@@ -1,2 +1,6 @@
-# Welcome To The Rebase
+# Welcome to The Rebase
+
+## Getting Super Powers
+
+
 

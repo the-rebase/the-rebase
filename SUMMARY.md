@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Welcome To The Rebase](README.md)
+* [Welcome to The Rebase](README.md)
+
+## Curriculum
+
+* [Example](example-curriculum/example/README.md)
+  * [0.1](example-curriculum/example/0.1.md)
 
