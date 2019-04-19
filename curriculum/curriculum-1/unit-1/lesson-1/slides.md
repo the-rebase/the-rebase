@@ -10,7 +10,7 @@ var a = "b"
 
 #### Slide 1
 
-![](../../../../.gitbook/assets/image.png)
+![](http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2016/MIT-Earth-Dish_0.jpg)
 
 #### Slide 2
 
