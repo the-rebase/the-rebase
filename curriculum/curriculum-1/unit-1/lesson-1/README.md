@@ -5,4 +5,4 @@
 ## Prep
 
 
-abcd {% page-ref page="./" %}
+{% page="./" %}
