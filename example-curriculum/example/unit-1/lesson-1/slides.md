@@ -2,7 +2,7 @@
 
 ## Do Now
 
-## Direct Teach
+## Teach
 
 ## Practice
 
