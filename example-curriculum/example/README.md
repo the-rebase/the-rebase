@@ -1,2 +1,2 @@
-# Example
+# Curriculum 1
 
