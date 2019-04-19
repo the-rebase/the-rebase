@@ -2,7 +2,7 @@
 
 ## Do Now
 
-```javascript
+```text
 var a = "b"
 ```
 
