@@ -2,13 +2,13 @@
 
 [https://the-rebase.netlify.com/?p=curriculum-1/unit-1/lesson-1](https://the-rebase.netlify.com/?p=curriculum-1%2Funit-1%2Flesson-1)
 
-## Do Now
+## Warm Up
 
 ```javascript
 var a = "b"
 ```
 
-## Teach
+## Instruction
 
 ### Slide 1
 
@@ -16,9 +16,9 @@ var a = "b"
 
 ### Slide 2
 
-{% embed url="https://repl.it/@PeterJablonski/32-Do-Now" caption="" %}
+## Together
 
-## Practice
+## On Your  Own
 
-## Wrap
+## Wrap up
 
