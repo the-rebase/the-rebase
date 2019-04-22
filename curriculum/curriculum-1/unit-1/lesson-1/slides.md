@@ -14,6 +14,8 @@ var a = "b"
 
 ![](http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2016/MIT-Earth-Dish_0.jpg)
 
+Note: The universe is big!
+
 ### Slide 2
 
 ## Together
