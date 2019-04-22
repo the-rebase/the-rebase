@@ -14,6 +14,10 @@ var a = "b"
 
 #### Slide 2
 
+{% embed url="https://repl.it/@PeterJablonski/32-Do-Now" %}
+
+
+
 ## Practice
 
 ## Wrap
