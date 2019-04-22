@@ -3,6 +3,9 @@
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/the-rebase/the-rebase"
+        },
+        "github-buttons": {
+        
         }
     }
 }
