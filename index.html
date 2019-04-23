@@ -33,7 +33,7 @@
       var path = urlParams.get('p');
       if(path) {
           const section = document.querySelector(".slides-data");
-          section.setAttribute("data-markdown", "curriculum/" + path + "/slides.md");
+          section.setAttribute("data-markdown", "https://raw.githubusercontent.com/the-rebase/the-rebase/curriculum/" + path + "/slides.md");
       }
       
       Reveal.initialize({
