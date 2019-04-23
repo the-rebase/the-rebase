@@ -22,7 +22,9 @@
 			var config = Reveal.getConfig().removeLiquid || {};
 			config.removeLiquid = typeof config.removeLiquid === 'boolean' ? config.removeLiquid : true;
 
-      
+      			 const slides = document.querySelector(".slides");
+      			slides.innerHTML = slides.innerHTML.replace(/{% embed url=/g, '');
+     			slides.innerHTML = slides.innerHTML.replace(/%}/g, '');
 
 		},
 
