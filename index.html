@@ -35,6 +35,9 @@
           const section = document.querySelector(".slides-data");
           section.setAttribute("data-markdown", "curriculum/" + path + "/slides.md");
       }
+      const slides = document.querySelector(".slides");
+      slides.innerHTML = slides.innerHTML.replace(/{% embed url=/g, '');
+      slides.innerHTML = slides.innerHTML.replace(/%}/g, '');
       
       Reveal.initialize({
       dependencies: [
