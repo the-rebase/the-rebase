@@ -1,0 +1,3 @@
+## exclude these directories from production
+
+exclude: [curriculum, resources]
