@@ -35,9 +35,6 @@
           const section = document.querySelector(".slides-data");
           section.setAttribute("data-markdown", "curriculum/" + path + "/slides.md");
       }
-      const slides = document.querySelector(".slides");
-      slides.innerHTML = slides.innerHTML.replace(/{% embed url=/g, '');
-      slides.innerHTML = slides.innerHTML.replace(/%}/g, '');
       
       Reveal.initialize({
       dependencies: [
@@ -54,6 +51,10 @@
         { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/notes/notes.js', async: true }
       ]
       });
+      
+      const slides = document.querySelector(".slides");
+      slides.innerHTML = slides.innerHTML.replace(/{% embed url=/g, '');
+      slides.innerHTML = slides.innerHTML.replace(/%}/g, '');
     </script>
   </body>
 </html>
