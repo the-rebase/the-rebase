@@ -20,7 +20,7 @@ Note: The universe is big!
 
 ## Together
 
-{% embed url="https://repl.it/@PeterJablonski/Unit-1-Lesson-1" %}
+[https://repl.it/@PeterJablonski/Unit-1-Lesson-1](https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice)
 
 ## On Your  Own
 
