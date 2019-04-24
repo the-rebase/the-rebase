@@ -25,6 +25,13 @@ var c = a + b;
 console.log('c');
 ```
 
+### Fragments
+
+This is a fragment &lt;!-- .element: class="fragment" --&gt;  
+This also a fragment &lt;!-- .element: class="fragment" --&gt;
+
+This also also a fragment &lt;!-- .element: class="fragment" --&gt;
+
 ## Together
 
 [https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice](https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice)
