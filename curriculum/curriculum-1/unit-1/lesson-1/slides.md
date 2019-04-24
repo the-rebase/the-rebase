@@ -4,24 +4,30 @@
 
 ## Warm Up
 
-```javascript
-var a = "b"
-```
+[https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice](https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice)
 
 ## Instruction
 
-### Slide 1
+### How many types of containers as you name?
 
-![](http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2016/MIT-Earth-Dish_0.jpg)
+![](https://i.pinimg.com/236x/45/8e/6c/458e6c56184a5dd30d785582aa5b2aee--christmas-cats-magical-christmas.jpg)
 
-Note: The universe is big!  
-Timing: 10
+Note:   
+Say - The universe is big!  
+Ask - What is at the center of the universe?
 
-### Slide 2
+### Variables
+
+```javascript
+var a = 1;
+var b = 2;
+var c = a + b;
+console.log('c');
+```
 
 ## Together
 
-{% embed url="https://repl.it/@PeterJablonski/Unit-1-Lesson-1" %}
+[https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice](https://repl.it/@PeterJablonski/Unit-1-Lesson-1-Practice)
 
 ## On Your  Own
 
